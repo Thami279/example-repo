@@ -1,1 +1,4 @@
-print("Hello World!")
+<<<<<<< HEAD
+print("Git is awesome!")
+
+
